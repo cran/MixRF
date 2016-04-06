@@ -1,0 +1,9 @@
+1d7143f7d01145a441c4c1b23ef2b65a *DESCRIPTION
+a2a13d875f0a3ea4061c008a8ff98b31 *NAMESPACE
+d1c8cb39cb1609766cd64ea9555ab0ec *R/MixRF.impute.r
+d4a0c55f23daa8e0d1bdb2de74aefbb3 *R/MixRF.r
+144257117c5c8a983ca75b28fbfee196 *data/sim.rda
+777191fe73f3b33d4e34f8e333d95d00 *man/MixRF-package.Rd
+ce79798e26b9cf8ad6483353924fe3c8 *man/MixRF.Rd
+f8ba1cc73e10f6d903c9008d0f9a8466 *man/MixRF.impute.Rd
+8010b351cf762f93c3391346b7b416f0 *man/sim.Rd
